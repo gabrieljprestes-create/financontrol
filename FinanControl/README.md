@@ -40,6 +40,3 @@ src/
 └── styles.css       # Estilos globais (Tailwind)
 ```
 
-## Licença
-
-Projeto acadêmico - uso educacional.
